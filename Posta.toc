@@ -1,0 +1,6 @@
+## Interface: 100007
+## Version: 1.0.0
+## Title: Postmaster Tips
+## Notes: Postmaster Quest Mini-game Tips
+## Author: cioran0 aka mistmare
+Posta.lua
