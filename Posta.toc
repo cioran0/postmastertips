@@ -1,4 +1,4 @@
-## Interface: 110000
+## Interface: 100207
 ## Version: 1.0.1
 ## Title: Postmaster Tips
 ## Notes: Postmaster Quest Mini-game Tips
