@@ -4,3 +4,4 @@ This wow addon makes it easier to complete the Postmaster Quest memory mini-game
 
 Updated TOC for WoW 11.00.00
 Version 1.0.1
+MIT
